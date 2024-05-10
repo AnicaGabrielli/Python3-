@@ -73,6 +73,7 @@ print(frase.split())
 # Junta as palavras separadas pelo split e coloca traços entre elas.
 frase = frase.split()
 
+#adiciona o elemento pretendido entre cada caracter da frase
 print('-'.join(frase),'\n')
 
 #testes
