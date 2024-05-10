@@ -40,7 +40,7 @@ print(frase.find('Android'))
 print('Curso' in frase)
 
 #Trasformaçāo 
-#essa função substitui I'm conjunto de caracteres por outro
+#essa função substitui um conjunto de caracteres por outro
 
 print(frase.replace('Pythaon','Android'))
 
